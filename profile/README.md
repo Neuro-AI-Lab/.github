@@ -31,17 +31,18 @@ Welcome Neuro AI Lab @ Kwang Woon Univ. in Republic of Korea. We are conducting 
 6. <a href = "https://www.mdpi.com/1099-4300/20/12/952"> D.-Y. Lee and Y.-S. Choi, “Multiscale Distribution Entropy Analysis of Short-Term Heart Rate Variability,” Entropy, vol. 20, no. 12, p. 952, Dec. 2018. </a>
 
 ### International Conferences/Workshops
-1. H.K. Lee, J.-S. Myoung, Y.-S. Choi, "A Lightweight End-to-End Neural Networks for Decoding of Motor Imagery Brain Signal, International Conference on Ubiquitous and Future Networks (ICUFN), Jul. 2022.
-2. H.K. Lee, J.-H. Lee, J.-O. Park, Y.-S. Choi, "Data-driven data augmentation for motor imagery brain-computer interface", International Conference on Information Networking (ICOIN), Jan. 2021.
-3. J.-O. Park , D.-Y. Lee, Y.-S. Choi, "Robust epileptic seizure detection using multiscale distribution entropy analysis for short EEG recordings", International Conference on Information Networking (ICOIN), Jan. 2021.
-4. J.-H. Lee, Y.-S. Choi , "A data driven Information theoretic feature extraction in EEG-based Motor Imagery BCI", Information and Communication Technology Convergence (ICTC), OCT. 2019.
-5. D.-Y. Lee, Y.-S. Choi, "Robust multiscale permutation entropy of heart rate variability: application to detection of cardiac arrhythmias", uHealthcare, Dec. 2018.
-6. S.R. Oh, Y.-S. Choi, "Analysis of ECG signals using a data-driven decomposition for detection of ventricular fibrillation", uHealthcare, Dec. 2018.
-7. H.K. Lee, Y.-S. Choi, "Classification of motor imagery brain rhythm using convolutional neural network based on wavelet transform", uHealthcare, Dec. 2018.
-8. H.K. Lee, Y.-S. Choi, "A Convolution Neural Networks Scheme for Classification of Motor Imagery EEG based on Wavelet Time-Frequency Image", International Conference on Information Networking, Jan. 2018.
+1. D.-H Kim, Y.-S. Choi, "EEG-based Emotion Recognition Using Spectral Graph Convolutional Neural Network based on Partial Directed Coherence", IEEE International Conference on Consumer Electronics-Asia (ICCE-Asia). IEEE, Oct, 2022
+2. H.K. Lee, J.-S. Myoung, Y.-S. Choi, "A Lightweight End-to-End Neural Networks for Decoding of Motor Imagery Brain Signal, International Conference on Ubiquitous and Future Networks (ICUFN), Jul. 2022.
+3. H.K. Lee, J.-H. Lee, J.-O. Park, Y.-S. Choi, "Data-driven data augmentation for motor imagery brain-computer interface", International Conference on Information Networking (ICOIN), Jan. 2021.
+4. J.-O. Park , D.-Y. Lee, Y.-S. Choi, "Robust epileptic seizure detection using multiscale distribution entropy analysis for short EEG recordings", International Conference on Information Networking (ICOIN), Jan. 2021.
+5. J.-H. Lee, Y.-S. Choi , "A data driven Information theoretic feature extraction in EEG-based Motor Imagery BCI", Information and Communication Technology Convergence (ICTC), OCT. 2019.
+6. D.-Y. Lee, Y.-S. Choi, "Robust multiscale permutation entropy of heart rate variability: application to detection of cardiac arrhythmias", uHealthcare, Dec. 2018.
+7. S.R. Oh, Y.-S. Choi, "Analysis of ECG signals using a data-driven decomposition for detection of ventricular fibrillation", uHealthcare, Dec. 2018.
+8. H.K. Lee, Y.-S. Choi, "Classification of motor imagery brain rhythm using convolutional neural network based on wavelet transform", uHealthcare, Dec. 2018.
+9. H.K. Lee, Y.-S. Choi, "A Convolution Neural Networks Scheme for Classification of Motor Imagery EEG based on Wavelet Time-Frequency Image", International Conference on Information Networking, Jan. 2018.
 
 ## RESEARCH PROJECT
-- 비대면 환경 사용자의 정량적 감정-감성 평가모델 기술 개발 및 양방향 디지털 콘텐츠 적용 상용화 / 2023.04.01~2025.12.31 / (주)엠마헬스케어
+- 비대면 환경 사용자의 정량적 감정-감성 평가모델 기술 개발 및 양방향 디지털 콘텐츠 적용 상용화 / 2023.04.01~2025.12.31 / 정보통신기획평가원
 - 인간의 신경계를 모사한 뉴로모픽 칩 설계 기술 및 뉴로 컴퓨팅 플랫폼 연구개발 / 2022.07.01 ~ 2030.07.01 / 정보통신기획평가원
 - 디지털 헬스케어를 위한 블록체인 융합 원격임상시험 서비스 개발 / 2022.07.01 ~ 2024.12.31 / 과학기술일자리진흥원
 - 얼굴 영상 기반 비접촉식 바이탈 사인  측정 및 응용 솔루션 개발 / 2022.06.01 ~ 2025.02.28 / 한국연구재단

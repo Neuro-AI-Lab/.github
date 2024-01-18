@@ -9,8 +9,8 @@ Welcome Neuro AI Lab @ Kwang Woon Univ. in Republic of Korea. We are conducting 
 <a href = "https://sites.google.com/view/neuroailab/members/professor"> <b>Young-Seok Choi, Ph.D. </b></a>
 
 ### Professional Experience
-- 2022 - Present: Visiting Scholar, Dept. Bioengineering, UC San Diego (UCSD)
 - 2020 - Present:  Professor, Dept. Electronics and Communications Engineering, Kwangwoon University
+- 2022 - 2023: Visiting Scholar, Dept. Bioengineering, UC San Diego (UCSD)
 - 2016 - 2020: Associate Professor, Dept. Electronics and Communications Engineering, Kwangwoon University
 - 2012 - 2016: Assistant Professor, Dept. Electronics Engineering, Gangneung-Wonju National University
 - 2010 - 2012:  Senior Research Engineer, Div. Convergence Technology, Electronics and Telecommunications Research Institute (ETRI)

@@ -1,7 +1,7 @@
 # Welcome to the NeuroAI Lab @ Kwang Woon Univ.
 
 ## INTRO.
-Welcome Neuro AI Lab @ Kwang Woon Univ. in Republic of Korea. We are conducting research on human-centered AI technology. Our lab wants to make the world better by studying AI technology similar to humans. Our lab provides the best research environment in Korea. <a href = "https://www.kw.ac.kr/ko/life/newsletter.jsp?BoardMode=view&DUID=34954" target = "_blank"> We passed the first round 2020 of the Korean artificial intelligence Grand Challenge and won third place on the voice recognition track in the second round 2021.</a> We are always looking for passionate students. If you are interested in our lab, please feel free to contact us. This is the <a href = "yschoi@kw.ac.kr" target = "_blank">professor's mail</a> and the <a href = "swslooser@gmail.com" target = "_blank">lab manager's mail</a>.
+Welcome NeuroAI Lab @ KwangWoon Univ. in Republic of Korea. We are conducting research on human-centered AI technology. Our lab wants to make the world better by studying AI technology similar to humans. Our lab provides the best research environment in Korea. <a href = "https://www.kw.ac.kr/ko/life/newsletter.jsp?BoardMode=view&DUID=34954" target = "_blank"> We passed the first round 2020 of the Korean artificial intelligence Grand Challenge and won third place on the voice recognition track in the second round 2021.</a> We are always looking for passionate students. If you are interested in our lab, please feel free to contact us. This is the <a href = "yschoi@kw.ac.kr" target = "_blank">professor's mail</a> and the <a href = "swslooser@gmail.com" target = "_blank">lab manager's mail</a>.
 
 ## PROFESSOR
 
